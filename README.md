@@ -6,9 +6,9 @@
 >
 > - [x] FizzBuzz Implementation
 > - [x] Palindrome Checker
-> - [ ] Reverse a Slice
-> - [ ] File Reader
-> - [ ] Prime Number Finder
+> - [x] Reverse a Slice
+> - [x] File Reader
+> - [x] Prime Number Finder
 > - [ ] Simple CLI Calculator
 > - [ ] JSON Parsing
 > - [ ] Concurrency Practice
