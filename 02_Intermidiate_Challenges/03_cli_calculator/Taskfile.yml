@@ -1,0 +1,17 @@
+version: "3"
+
+tasks:
+  build:
+    desc: Build the app
+    cmds:
+      - GOFLAGS=-mod=mod go build -o bin/03_cli_calculator main.go
+
+  run:
+    desc: Run the app
+    cmds:
+      - GOFLAGS=-mod=mod go run main.go
+
+  clean:
+    desc: Clean the app
+    cmds:
+      - rm -rf bin
