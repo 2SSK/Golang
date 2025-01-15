@@ -2,7 +2,6 @@ package cmd
 
 import (
 	"fmt"
-
 	"github.com/spf13/cobra"
 )
 
@@ -11,6 +10,7 @@ var addCmd = &cobra.Command{
 	Short: "Add two or more numbers",
 
 	Run: func(cmd *cobra.Command, args []string) {
+
 		result := numArr[0]
 		for _, v := range numArr[1:] {
 			result += v
