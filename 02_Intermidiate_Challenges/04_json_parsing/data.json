@@ -1,0 +1,26 @@
+[
+  {
+    "Name": {
+      "FirstName": "John",
+      "LastName": "Doe"
+    },
+    "Age": 25,
+    "Email": "john@gmail.com"
+  },
+  {
+    "Name": {
+      "FirstName": "Rajesh",
+      "LastName": "ray"
+    },
+    "Age": 25,
+    "Email": "rajesh@gmail.com"
+  },
+  {
+    "Name": {
+      "FirstName": "ranjit",
+      "LastName": "ray"
+    },
+    "Age": 25,
+    "Email": "ranjit@gmail.com"
+  }
+]

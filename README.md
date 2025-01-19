@@ -9,8 +9,8 @@
 > - [x] Reverse a Slice
 > - [x] File Reader
 > - [x] Prime Number Finder
-> - [ ] Simple CLI Calculator
-> - [ ] JSON Parsing
+> - [x] Simple CLI Calculator
+> - [x] JSON Parsing
 > - [ ] Concurrency Practice
 > - [ ] HTTP Server
 > - [ ] Todo CLI App

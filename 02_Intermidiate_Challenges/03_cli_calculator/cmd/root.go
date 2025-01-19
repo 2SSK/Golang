@@ -1,7 +1,6 @@
 package cmd
 
 import (
-	"fmt"
 	"os"
 
 	"github.com/2SSK/Golang/02_Intermidiate_Challenges/03_cli_calculator/utils"

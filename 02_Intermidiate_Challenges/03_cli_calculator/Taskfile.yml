@@ -4,7 +4,7 @@ tasks:
   build:
     desc: Build the app
     cmds:
-      - GOFLAGS=-mod=mod go build -o bin/03_cli_calculator main.go
+      - GOFLAGS=-mod=mod go build -o bin/calcli main.go
 
   run:
     desc: Run the app
