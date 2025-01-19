@@ -11,7 +11,7 @@
 > - [x] Prime Number Finder
 > - [x] Simple CLI Calculator
 > - [x] JSON Parsing
-> - [ ] Concurrency Practice
+> - [x] Concurrency Practice
 > - [ ] HTTP Server
 > - [ ] Todo CLI App
 > - [ ] URL Shortener
