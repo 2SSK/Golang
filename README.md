@@ -12,9 +12,9 @@
 > - [x] Simple CLI Calculator
 > - [x] JSON Parsing
 > - [x] Concurrency Practice
-> - [ ] HTTP Server
-> - [ ] Todo CLI App
-> - [ ] URL Shortener
+> - [x] HTTP Server
+> - [x] Todo CLI App
+> - [x] URL Shortener
 > - [ ] Goroutine Worker Pool
 > - [ ] Merge Sorted Arrays
 > - [ ] Binary Search
