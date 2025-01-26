@@ -15,11 +15,11 @@
 > - [x] HTTP Server
 > - [x] Todo CLI App
 > - [x] URL Shortener
-> - [ ] Goroutine Worker Pool
-> - [ ] Merge Sorted Arrays
-> - [ ] Binary Search
-> - [ ] Matrix Multiplication
-> - [ ] Word Frequency Counter
+> - [x] Goroutine Worker Pool
+> - [x] Merge Sorted Arrays
+> - [x] Binary Search
+> - [x] Matrix Multiplication
+> - [x] Word Frequency Counter
 > - [ ] Channels and Goroutines
 > - [ ] Interfaces
 > - [ ] Error Handling
